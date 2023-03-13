@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Raleigh",
+        "local_names": {
+            "zh": "罗利 / 羅里 / 羅利",
+            "en": "Raleigh",
+            "ta": "ராலீ",
+            "uk": "Ралі",
+            "pl": "Raleigh",
+            "ru": "Роли"
+        },
+        "lat": 35.7803977,
+        "lon": -78.6390989,
+        "country": "US",
+        "state": "North Carolina"
+    }
+]

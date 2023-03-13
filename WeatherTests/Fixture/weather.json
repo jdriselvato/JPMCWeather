@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -78.6391,
+        "lat": 35.7804
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 281.13,
+        "feels_like": 277.56,
+        "temp_min": 279.5,
+        "temp_max": 282.86,
+        "pressure": 1008,
+        "humidity": 79
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.8,
+        "deg": 317,
+        "gust": 14.02
+    },
+    "clouds": {
+        "all": 78
+    },
+    "dt": 1678506350,
+    "sys": {
+        "type": 2,
+        "id": 2033469,
+        "country": "US",
+        "sunrise": 1678447971,
+        "sunset": 1678490229
+    },
+    "timezone": -18000,
+    "id": 4497286,
+    "name": "Wake",
+    "cod": 200
+}
