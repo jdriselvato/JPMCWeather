@@ -1,6 +1,20 @@
 # JPMWeatherApp
 Weather app for JPM
 
+The app supports:
+Search by zip code
+Search by country code and city name
+Search by GPS (lat/lon)
+It saves the last search location to User defaults
+Uses GPS location by default on boot
+Handles GPS permissions gracefully
+Support iPhone and iPad
+Supports light and dark mode
+
+The app contains no CocoaPods Swift package manager SDKs; meaning all hand coded by me.
+The app contains unit tests including mock APIService testing.
+The app is natively programmed in UIKit + SwiftUI in the MVVM architecture.
+
 # Screenshots
 
 | iPad | iPhone |
