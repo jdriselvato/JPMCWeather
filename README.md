@@ -1,4 +1,4 @@
-# JPMWeatherApp
+# JPMCWeatherApp
 Weather app for JPM
 
 The app supports:
