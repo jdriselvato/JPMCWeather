@@ -1,7 +1,8 @@
-# JPMCWeatherApp
+# JPMCWeather App
+
 Weather app for JPM Chase
 
-The app supports:
+### The app supports:
 
 - Search by zip code
 - Search by country code and city name
@@ -12,7 +13,7 @@ The app supports:
 - Support iPhone and iPad
 - Supports light and dark mode
 
-Additional notes:
+### Additional notes:
 
 - The app contains no CocoaPods Swift package manager SDKs; meaning all hand coded by me.
 - The app contains unit tests including mock APIService testing.
